@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="https://1.bp.blogspot.com/-r3HzJVNCEr4/YBPk8YHZOPI/AAAAAAAAIlk/-1Rtz6wIVzcC370bhb_T7uPLC2VMNqqiwCLcBGAsYHQ/s128/mstile-70x70.png"/>
+            <square150x150logo src="https://1.bp.blogspot.com/-wDQhPi9dQsE/YBPk8cIWRaI/AAAAAAAAIlg/UkHTrfoywnkOnTIsF6PP1jVQfPUIR_QrwCLcBGAsYHQ/s270/mstile-150x150.png"/>
+            <TileColor>#ffae00</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>

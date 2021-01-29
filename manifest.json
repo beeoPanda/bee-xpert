@@ -1,0 +1,30 @@
+{
+	"dir" : "ltr",
+	"lang" : "French",
+	"name" : "bee-Xpert",
+	"scope" : "/",
+	"display" : "fullscreen",
+	"start_url" : "https://www.bee-xpert.com/",
+	"short_name" : "bee-Xpert",
+	"theme_color": "#ffffff",
+	"description" : "Chez bee-Xpert, un(e) expert(e) en Ressources Humaines et en Culture d'Entreprise sera toujours disponible pour vous aider à devenir e-xpert(e) de votre Société. Vous êtes une petite, moyenne ou grande entreprise, un artisan, un commerçant, un agriculteur, en profession libérale ou encore une association ? Que vous ayez un ou plusieurs employé(e)s, vous pouvez compter sur un accompagnement de qualité dans toutes vos démarches Sociales et bien plus encore.",
+	"orientation" : "any",
+	"background_color": "#ffffff",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-Esr-L6NLGr8/YBPk7ZTT2DI/AAAAAAAAIlI/hfGkVGXkYLwonBW_sljiy4_UJ-2nsO1JQCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-4KUjSfckS5U/YBPk7OgNZFI/AAAAAAAAIlA/9YjPeKbztlUTaUSBsrJo0DS7YTGmqiTkACLcBGAsYHQ/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+	"url" : "https://www.bee-xpert.com",
+	"screenshots" : [],
+	"generated" : "true"
+}
