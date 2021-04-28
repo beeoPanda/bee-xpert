@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:BERGOZZA;Florence;👰🏻;;
+FN:Florence BERGOZZA
+ORG:bee-Xpert C&EC
+TITLE:eXpertE comptable
+item1.TEL;waid=33607737257:+33 6 07 73 72 57
+item1.X-ABLabel:Mobile
+item2.URL:www.bee-xpert.fr
+item2.X-ABLabel:OTHER
+item3.EMAIL;type=INTERNET:contact@bee-xpert.fr
+item3.X-ABLabel:Domicile
+item4.ADR:;;36, rue le Terme 17320 Marennes;;;;
+item4.X-ABADR:ac
+item4.X-ABLabel:Bureau
+END:VCARD
