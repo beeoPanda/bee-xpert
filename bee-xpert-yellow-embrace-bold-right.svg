@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 115.2 289.55" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Outlook_24x</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style>.cls-1{fill:none;}.cls-2{fill:#0364b8;}.cls-3,.cls-8{fill:#0a2767;}.cls-4{fill:#28a8ea;}.cls-5{fill:#35b8f1;}.cls-6{fill:#50d9ff;}.cls-7{fill:#0078d4;}.cls-11,.cls-8{opacity:0.5;}.cls-9{fill:#1490df;}.cls-10{opacity:0.1;}.cls-12{fill:#fff;}</style>
+  <style>.cls-1{fill:#21a366;}.cls-2{fill:none;}.cls-3{fill:#107c41;}.cls-4{fill:#33c481;}.cls-5{fill:#185c37;}.cls-6{opacity:0.5;}.cls-7{fill:#fff;}</style>
+  <style>.cls-1{fill:none;}.cls-2{fill:#0364b8;}.cls-3,.cls-8{fill:#0a2767;}.cls-4{fill:#28a8ea;}.cls-5{fill:#35b8f1;}.cls-6{fill:#50d9ff;}.cls-7{fill:#0078d4;}.cls-11,.cls-8{opacity:0.5;}.cls-9{fill:#1490df;}.cls-10{opacity:0.1;}.cls-12{fill:#fff;}</style>
+  <radialGradient id="radialGradient4005-4-1-4-6" cx="463.98" cy="526.46" r="88.007" gradientTransform="matrix(-1.6444 -.24789 .24873 -1.65 701.08 1128.1)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".76695" offset="0"/>
+   <stop stop-color="#ad7a2a" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <title>Outlook_24x</title>
+ <path d="m69.058 144.29c-38.379 66.48-28.271 47.419-66.656 113.89l-2.402 4.1608c4.396 9.5346 33.646 27.193 47.127 27.207l53.617-91.31c19.274-33.384 19.274-74.513 0-107.9-3.6762-5.9461-31.04-53.494-52.311-90.34-10.566 0.1176-41.437 14.446-47.124 26.881 21.495 40.812 44.584 77.379 67.749 117.4z" fill="#ffae00" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m69.058 144.28c-39.176 67.865-29.858 50.196-69.044 118.06 4.396 9.5346 33.646 27.193 47.127 27.208 25.267-43.753 5.0212-7.1586 28.072-47.083 13.497-31.288 11.62-67.403-5.6629-97.336z" fill="url(#radialGradient4005-4-1-4-6)" stroke-width=".74541" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
